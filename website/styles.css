@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    height: 40%;
+    width: 100%;
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+}
+.nav1{
+    height: 18%;
+    width: 100%;
+    background-color:#24243e;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+}
+#p1{ 
+   
+   
+    display: flex;
+    font-size:x-large;
+    /* font-family: cursive; */
+   color: white;
+   margin-bottom: 10px;
+}
+.c2{
+    width:35vw;
+    display: flex;
+margin-top: 18px;
+   justify-content: space-around;
+  
+   align-items: center;
+}
+a{
+    
+    color: white;
+    text-decoration: none;
+    font-family:cursive;
+}
+.box2{
+    display: flex;
+    
+    margin: 10px;
+    margin-left: 230px;
+    padding-top: 22px;
+    justify-content: space-around;
+}
+h3{
+    color: black;
+    font-family: cursive;
+}
+#pp{
+    padding-top: 15px;
+}
+
+.dabba2{
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+.dabba2 img{
+    height: 180px;
+    width: 500px;
+    margin-right: 50px;
+}
+.dabba1{
+
+    margin: 10px;
+    margin-left: 5px;
+    padding-top: 12px;
+    width: 50vw;
+}
+#b1{
+    background-color: darkorange;
+    color: white;
+    width: 100px;
+    font-family: cursive;
+    border-radius: 11%;
+    border-color: darkorange;
+}
+.con2
+{
+    display: flex;
+    margin: 45px;
+    justify-content: space-around;
+    margin-left: 230px;
+    font-family: cursive;
+
+    
+
+
+}
+.d1{
+    width: 20vw;
+}
+.con3{
+    
+    display: flex;
+    
+    
+    background-color:#24243e;
+    color: white;
+   
+}
+.b1{
+    margin: 45px;
+    margin-left: 230px;
+    width: 25vw;
+    /* font-family: cursive; */
+    color: white;
+
+}
+h2{
+    font-family: cursive;
+}
+.b2{
+    
+    
+    margin: 45px;
+    margin-left: 230px;
+
+}
+.b3{
+    margin: 45px;
+    margin-left:303px;
+    color: white;
+}
+h4{
+    font-family: cursive;
+}
+
+td{
+    color: white;
+}
+#f1{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+
